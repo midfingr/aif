@@ -125,7 +125,7 @@ select_language() {
         "5") source /aif-master/dutch.trans
              CURR_LOCALE="nl_NL.UTF-8"
              ;;             
-        "6") source /aif-dev-master/greek.trans
+        "6") source /aif-master/greek.trans
              CURR_LOCALE="el_GR.UTF-8"
              FONT="iso07u-16.psfu"       
              ;;
